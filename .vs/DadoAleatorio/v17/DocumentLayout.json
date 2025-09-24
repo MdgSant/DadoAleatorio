@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\Documents\\ETEC\\2\u00BASemestre\\PAM\\DadoAleatorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F88766F-FD83-47B9-9699-70DA9B7990F8}|DadoAleatorio\\DadoAleatorio.csproj|c:\\users\\miguel\\documents\\etec\\2\u00BAsemestre\\pam\\dadoaleatorio\\dadoaleatorio\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F88766F-FD83-47B9-9699-70DA9B7990F8}|DadoAleatorio\\DadoAleatorio.csproj|solutionrelative:dadoaleatorio\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F88766F-FD83-47B9-9699-70DA9B7990F8}|DadoAleatorio\\DadoAleatorio.csproj|c:\\users\\miguel\\documents\\etec\\2\u00BAsemestre\\pam\\dadoaleatorio\\dadoaleatorio\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F88766F-FD83-47B9-9699-70DA9B7990F8}|DadoAleatorio\\DadoAleatorio.csproj|solutionrelative:dadoaleatorio\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Documents\\ETEC\\2\u00BASemestre\\PAM\\DadoAleatorio\\DadoAleatorio\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "DadoAleatorio\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Documents\\ETEC\\2\u00BASemestre\\PAM\\DadoAleatorio\\DadoAleatorio\\MainPage.xaml.cs",
+              "RelativeToolTip": "DadoAleatorio\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:47:29.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Documents\\ETEC\\2\u00BASemestre\\PAM\\DadoAleatorio\\DadoAleatorio\\MainPage.xaml",
+              "RelativeDocumentMoniker": "DadoAleatorio\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Miguel\\Documents\\ETEC\\2\u00BASemestre\\PAM\\DadoAleatorio\\DadoAleatorio\\MainPage.xaml",
+              "RelativeToolTip": "DadoAleatorio\\MainPage.xaml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-24T03:47:17.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
