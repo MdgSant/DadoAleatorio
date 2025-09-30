@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DadoAleatorio.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+        Padding="30,0"
+        Spacing="25">
+            <Label
+            Text = "Rolagem de dados"
+            Style= "{StaticResource Headline}"
+            SemanticProperties.HeadingLevel="Level1"
+            SemanticProperties.Description="Titulo do aplicativo" />
+
+            <Image
+            x:Name="DadoImagem"
+            Source="lado6.png"
+            HeightRequest="185"
+            Aspect="AspectFit"
+            SemanticProperties.Description="dado de 4 lados" />
+
+            <Label
+            x:Name="Numerolbl"
+            Text="6"
+            Style="{StaticResource Headline}"
+            SemanticProperties.HeadingLevel="Level1" />
+
+            <Picker
+            x:Name="Nmpckr"
+            Title="Quantidade de lados"
+            >
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:Int32}">
+                        <x:Int32>4</x:Int32>
+                        <x:Int32>6</x:Int32>
+                        <x:Int32>8</x:Int32>
+                        <x:Int32>10</x:Int32>
+                        <x:Int32>20</x:Int32>
+                        <x:Int32>100</x:Int32>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Button
+            x:Name="RollBtn"
+            Text="Rolar o dado" 
+            Clicked="Rolar"
+            SemanticProperties.Hint="Roda um número aleatório no contador"
+            HorizontalOptions="Fill" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
